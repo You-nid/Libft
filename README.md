@@ -1,5 +1,5 @@
 # Libft_d
-Program name libft.a
+Library name libft.a
 
 Description Write your own library: a collection of functions
 that will be a useful tool for your cursus.
