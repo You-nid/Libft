@@ -5,7 +5,7 @@ Description Write your own library: a collection of functions
 that will be a useful tool for your cursus.
 
 **Technical considerations**
-• Declaring global variables is forbidden.
+• Declaring global variables is forbidden.\n
 • If you need helper functions to split a more complex function, define them as static
 functions. This way, their scope will be limited to the appropriate file.
 • Place all your files at the root of your repository.
